@@ -1,8 +1,8 @@
-# exploring transfer of ownership of github pages
+# example transfer of ownership of github pages
 
-We intend to transfer a repo to an organization.
+We intend to transfer a plugin repo from to a github organization.
 
-There are files we care about shared via public dobbs.github.io urls.
+There are files in that repo published as github pages which are used in pages out in the wider federation.
+We have learned that the transfer of a repo breaks the links to those published github pages.
 
-With this repo we will test how references to those urls survive
-transfer.
+With this repo we are testing how to repair the links for the pages in the wider federation.
